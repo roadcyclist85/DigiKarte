@@ -212,8 +212,7 @@
         "routeT2": "2",
         "buttonText": "Jetzt Parkplatz buchen",
         "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 2<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Parkhaus mit Stellplätzen für Elektrofahrzeuge (je nach Verfügbarkeit)<br />Die Stellplätze befinden sich im P26 auf Ebene 02<br />Weitere Informationen zum Elektroladen: <a href='https://www.munich-airport.de/elektrofahrzeug-laden-8467114'>Elektrofahrzeug laden</a>
-        <br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
+        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 2<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Parkhaus mit Stellplätzen für Elektrofahrzeuge (je nach Verfügbarkeit)<br />Die Stellplätze befinden sich im P26 auf Ebene 02<br />Weitere Informationen zum Elektroladen: <a href='https://www.munich-airport.de/elektrofahrzeug-laden-8467114'>Elektrofahrzeug laden</a><br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
         "accordeon": {
             "1": {
                 "accordeonName": "Nutzung QR-Code",
@@ -537,7 +536,7 @@
                 "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
             }
         }
-    }
+    },
     {
         "item": "p90",
         "bookable": "yes",
@@ -601,5 +600,5 @@
                 "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
             }
         }
-    },
+    }
 ]
